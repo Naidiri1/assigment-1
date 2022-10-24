@@ -1,4 +1,4 @@
-# Horiseon # Marketing agency 
+# Horiseon Marketing agency # 
 This project contains information about a marketing agency named Horiseon 
 
 Description
